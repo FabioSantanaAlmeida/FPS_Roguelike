@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Unreal/Projects/FPS_Roguelike/FPS_Roguelike/Content/FirstPerson/Blueprints/BP_HUD.uasset",
+				"D:/Unreal/Projects/FPS_Roguelike/FPS_Roguelike/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"D:/Unreal/Projects/FPS_Roguelike/FPS_Roguelike/Content/FirstPerson/Blueprints/White_Circle.uasset",
+				"D:/Unreal/Projects/FPS_Roguelike/FPS_Roguelike/Content/FirstPerson/Blueprints/HUD.uasset",
 				"C:/Users/Alumno/Documents/GitHub/FPS_Roguelike/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
 				"C:/Users/Alumno/Documents/GitHub/FPS_Roguelike/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset",
 				"C:/Users/Alumno/Documents/GitHub/FPS_Roguelike/Content/FirstPerson/Blueprints/HUD.uasset",
