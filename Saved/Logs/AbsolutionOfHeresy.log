@@ -7849,3 +7849,139 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.11.07-14.35.46:086][951]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 229 ms)
 [2023.11.07-14.35.46:087][951]AssetCheck: New page: Asset Save: EnemyLogic
 [2023.11.07-14.35.46:087][951]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/EnemyLogic.EnemyLogic
+[2023.11.07-14.36.07:924][502]MapCheck: New page: Map Check
+[2023.11.07-14.36.07:940][502]Cmd: MAP REBUILD ALLVISIBLE
+[2023.11.07-14.36.07:941][502]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2023.11.07-14.36.07:942][502]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.07-14.36.07:947][502]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.07-14.36.07:971][502]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2023.11.07-14.36.07:971][502]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.07-14.36.07:971][502]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.07-14.36.07:976][502]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2023.11.07-14.36.07:976][502]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.11.07-14.36.07:976][502]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2023.11.07-14.36.08:010][502]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2023.11.07-14.36.08:011][502]LogWorldPartition: Display: WorldPartition initialize took 35 ms (total: 799 ms)
+[2023.11.07-14.36.10:541][502]LogSlate: Window 'Build HLODs' being destroyed
+[2023.11.07-14.36.10:561][502]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.11.07-14.36.13:721][502]LogSlate: Window 'Save Content' being destroyed
+[2023.11.07-14.36.13:729][502]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.07-14.36.13:763][502]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2023.11.07-14.36.13:771][502]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/FirstPersonMap
+[2023.11.07-14.36.13:771][502]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/FPS_Roguelike/Saved/FirstPersonMap9F39E6CC4EA9A11A9D7713877273C7F4.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/FPS_Roguelike/Content/FirstPerson/Maps/FirstPersonMap.umap'
+[2023.11.07-14.36.13:775][502]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/MX/R1GV431P5FDO08OFULRA01
+[2023.11.07-14.36.13:775][502]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.07-14.36.13:777][502]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/MX/R1GV431P5FDO08OFULRA01
+[2023.11.07-14.36.13:777][502]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/FPS_Roguelike/Saved/R1GV431P5FDO08OFULRA0106583F2F4BD7E569E61872BD46B8226C.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/FPS_Roguelike/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/MX/R1GV431P5FDO08OFULRA01.uasset'
+[2023.11.07-14.36.13:778][502]LogFileHelpers: InternalPromptForCheckoutAndSave took 3 ms (total: 232 ms)
+[2023.11.07-14.36.13:778][502]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/MX/R1GV431P5FDO08OFULRA01
+[2023.11.07-14.36.13:780][502]LogFileHelpers: Saving map 'FirstPersonMap' took 0.050
+[2023.11.07-14.36.13:782][502]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/MX/R1GV431P5FDO08OFULRA01
+[2023.11.07-14.36.13:782][502]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/FPS_Roguelike/Saved/R1GV431P5FDO08OFULRA0140B26B644505EBDF42A6B99AEA7EBD7B.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/FPS_Roguelike/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/MX/R1GV431P5FDO08OFULRA01.uasset'
+[2023.11.07-14.36.13:785][502]LogFileHelpers: InternalPromptForCheckoutAndSave took 57 ms (total: 289 ms)
+[2023.11.07-14.36.13:785][502]LightingResults: New page: Lighting Build
+[2023.11.07-14.36.13:812][502]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.07-14.36.13:812][502]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.07-14.36.13:830][502]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2023.11.07-14.36.13:830][502]MapCheck: New page: Map Check
+[2023.11.07-14.36.13:830][502]LightingResults: New page: Lighting Build
+[2023.11.07-14.36.13:842][502]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.07-14.36.13:874][502]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.11.07-14.36.13:877][502]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.07-14.36.13:878][502]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.07-14.36.13:878][502]LogAIModule: Creating AISystem for world Untitled
+[2023.11.07-14.36.13:879][502]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.11.07-14.36.13:901][502]LoadErrors: New page: New Map
+[2023.11.07-14.36.13:914][502]LogSlate: Window 'EnemyLogic' being destroyed
+[2023.11.07-14.36.13:927][502]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.11.07-14.36.13:927][502]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.07-14.36.13:963][502]LogWorldPartitionEditor: Display: Running commandlet: C:\Program Files\Epic Games\UE_5.3\Engine\Binaries\Win64\UnrealEditor.exe  "../../../../../../Users/Alumno/Documents/GitHub/FPS_Roguelike/AbsolutionOfHeresy.uproject" -BaseDir="C:/Program Files/Epic Games/UE_5.3/Engine/Binaries/Win64/" -Unattended -RunningFromUnrealEd -AbsLog="C:/Users/Alumno/Documents/GitHub/FPS_Roguelike/Saved/Logs/WorldPartition/WorldPartitionHLODsBuilder-000034b0-2023-11-07T15.36.13.963Z.log" /Game/FirstPerson/Maps/FirstPersonMap -run=WorldPartitionBuilderCommandlet -Builder=WorldPartitionHLODsBuilder -SetupHLODs -BuildHLODs -AllowCommandletRendering
+[2023.11.07-14.36.21:244][502]LogWorldPartitionEditor: Display: Commandlet executed successfully.
+[2023.11.07-14.36.21:244][502]LogWorldPartitionEditor: Display: Detailed output can be found in C:/Users/Alumno/Documents/GitHub/FPS_Roguelike/Saved/Logs/WorldPartition/WorldPartitionHLODsBuilder-000034b0-2023-11-07T15.36.13.963Z.log
+[2023.11.07-14.36.21:270][502]Cmd: MAP LOAD FILE="../../../../../../Users/Alumno/Documents/GitHub/FPS_Roguelike/Content/FirstPerson/Maps/FirstPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.11.07-14.36.21:270][502]LightingResults: New page: Lighting Build
+[2023.11.07-14.36.21:270][502]LoadErrors: New page: Loading map: FirstPersonMap.umap
+[2023.11.07-14.36.21:304][502]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.11.07-14.36.21:304][502]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.07-14.36.21:304][502]MapCheck: New page: Map Check
+[2023.11.07-14.36.21:304][502]LightingResults: New page: Lighting Build
+[2023.11.07-14.36.21:317][502]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.07-14.36.21:319][502]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.11.07-14.36.21:338][502]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonMap'.
+[2023.11.07-14.36.21:338][502]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.07-14.36.21:338][502]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.07-14.36.21:338][502]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.11.07-14.36.21:339][502]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2023.11.07-14.36.21:339][502]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.11.07-14.36.21:339][502]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2023.11.07-14.36.22:207][502]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2023.11.07-14.36.22:208][502]LogWorldPartition: Display: WorldPartition initialize took 868 ms (total: 1.66 sec)
+[2023.11.07-14.36.22:277][502]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.11.07-14.36.22:303][502]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.11.07-14.36.22:306][502]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.11.07-14.36.22:308][502]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1,656ms to complete.
+[2023.11.07-14.36.22:309][502]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2023.11.07-14.36.22:326][502]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.11.07-14.36.22:840][502]LogShaderCompilers: Display: ================================================
+[2023.11.07-14.36.22:840][502]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.11.07-14.36.22:840][502]LogShaderCompilers: Display: Total job queries 18, among them cache hits 0 (0.00%)
+[2023.11.07-14.36.22:840][502]LogShaderCompilers: Display: Tracking 6 distinct input hashes that result in 6 distinct outputs (100.00%)
+[2023.11.07-14.36.22:840][502]LogShaderCompilers: Display: RAM used: 128,83 KiB of 1,60 GiB budget. Usage: 0.01%
+[2023.11.07-14.36.22:840][502]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.11.07-14.36.22:840][502]LogShaderCompilers: Display: Shaders Compiled: 6
+[2023.11.07-14.36.22:840][502]LogShaderCompilers: Display: Jobs assigned 6, completed 6 (100%)
+[2023.11.07-14.36.22:840][502]LogShaderCompilers: Display: Average time worker was idle: 1075.79 s
+[2023.11.07-14.36.22:840][502]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.11 s
+[2023.11.07-14.36.22:840][502]LogShaderCompilers: Display: Job execution time: average 0.35 s, max 0.43 s
+[2023.11.07-14.36.22:840][502]LogShaderCompilers: Display: Job life time (pending + execution): average 0.42 s, max 0.52
+[2023.11.07-14.36.22:840][502]LogShaderCompilers: Display: Shader code size: average 35,072 KiB, min 29,711 KiB, max 38,938 KiB
+[2023.11.07-14.36.22:840][502]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.94 s
+[2023.11.07-14.36.22:840][502]LogShaderCompilers: Display: Jobs were issued in 6 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.11.07-14.36.22:840][502]LogShaderCompilers: Display: Average processing rate: 6.36 jobs/sec
+[2023.11.07-14.36.22:840][502]LogShaderCompilers: Display: Total thread time: 1,127 s
+[2023.11.07-14.36.22:840][502]LogShaderCompilers: Display: Total thread preprocess time: 0,12 s
+[2023.11.07-14.36.22:840][502]LogShaderCompilers: Display: Percentage time preprocessing: 10.68%
+[2023.11.07-14.36.22:840][502]LogShaderCompilers: Display: Effective parallelization: 1.20 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2023.11.07-14.36.22:840][502]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.11.07-14.36.22:840][502]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.25 sec, max 0.25 sec, min 0.25 sec)
+[2023.11.07-14.36.22:840][502]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.23 sec, max 0.23 sec, min 0.23 sec)
+[2023.11.07-14.36.22:840][502]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.22 sec, max 0.22 sec, min 0.22 sec)
+[2023.11.07-14.36.22:840][502]LogShaderCompilers: Display:                                             FDebugViewModeVS (compiled    1 times, average 0.18 sec, max 0.18 sec, min 0.18 sec)
+[2023.11.07-14.36.22:840][502]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 0.15 sec, max 0.15 sec, min 0.15 sec)
+[2023.11.07-14.36.22:840][502]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.11.07-14.36.22:840][502]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 21.76% of total time (compiled    1 times, average 0.25 sec, max 0.25 sec, min 0.25 sec)
+[2023.11.07-14.36.22:840][502]LogShaderCompilers: Display:                                                 FLumenCardVS - 20.32% of total time (compiled    1 times, average 0.23 sec, max 0.23 sec, min 0.23 sec)
+[2023.11.07-14.36.22:840][502]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 19.81% of total time (compiled    1 times, average 0.22 sec, max 0.22 sec, min 0.22 sec)
+[2023.11.07-14.36.22:840][502]LogShaderCompilers: Display:                                             FDebugViewModeVS - 15.90% of total time (compiled    1 times, average 0.18 sec, max 0.18 sec, min 0.18 sec)
+[2023.11.07-14.36.22:840][502]LogShaderCompilers: Display:                                             FDebugViewModePS - 13.06% of total time (compiled    1 times, average 0.15 sec, max 0.15 sec, min 0.15 sec)
+[2023.11.07-14.36.22:840][502]LogShaderCompilers: Display: ================================================
+[2023.11.07-14.36.22:949][502]LogLevel: Display: Export Material TexCoord Scales took 0.108 seconds.
+[2023.11.07-14.36.22:956][502]TextureStreamingBuild: Display: Build Texture Streaming took 0.008 seconds.
+[2023.11.07-14.36.22:979][502]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.11.07-14.36.22:987][502]LightingResults: New page: Lighting Build - 7 nov. 2023 16:36:22
+[2023.11.07-14.36.22:988][502]LogStaticLightingSystem: Warning: WorldSettings.bForceNoPrecomputedLighting is true, Skipping Lighting Build!
+[2023.11.07-14.36.23:004][502]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2023.11.07-14.36.23:004][502]MapCheck: New page: FirstPersonMap - 7 nov. 2023 16:36:23
+[2023.11.07-14.36.23:007][502]MapCheck: Warning: StaticMeshActor_UAID_D8BBC1BA1FBDF6B701_1812836109 StaticMeshActor_UAID_D8BBC1BA1FBDF6B701_1812836109 is in the same location as StaticMeshActor_UAID_D8BBC1BA1FBDF6B701_1812836108 
+[2023.11.07-14.36.23:012][502]MapCheck: Warning: StaticMeshActor_UAID_D8BBC1BA1FBDF4B701_1295081362 StaticMeshActor_UAID_D8BBC1BA1FBDF4B701_1295081362 is in the same location as StaticMeshActor_UAID_D8BBC1BA1FBDF4B701_1313688363 
+[2023.11.07-14.36.23:013][502]MapCheck: Warning: StaticMeshActor_UAID_D8BBC1BA1FBDF6B701_1934877427 StaticMeshActor_UAID_D8BBC1BA1FBDF6B701_1934877427 is in the same location as StaticMeshActor_UAID_D8BBC1BA1FBDF6B701_1934876426 
+[2023.11.07-14.36.23:013][502]MapCheck: Warning: StaticMeshActor_UAID_D8BBC1BA1FBDF6B701_1987558745 StaticMeshActor_UAID_D8BBC1BA1FBDF6B701_1987558745 is in the same location as StaticMeshActor_UAID_D8BBC1BA1FBDF6B701_1987557744 
+[2023.11.07-14.36.23:013][502]MapCheck: Warning: StaticMeshActor_UAID_D8BBC1BA1FBDF6B701_1934876426 StaticMeshActor_UAID_D8BBC1BA1FBDF6B701_1934876426 is in the same location as StaticMeshActor_UAID_D8BBC1BA1FBDF6B701_1934877427 
+[2023.11.07-14.36.23:013][502]MapCheck: Warning: StaticMeshActor_UAID_D8BBC1BA1FBDF6B701_1812836108 StaticMeshActor_UAID_D8BBC1BA1FBDF6B701_1812836108 is in the same location as StaticMeshActor_UAID_D8BBC1BA1FBDF6B701_1812836109 
+[2023.11.07-14.36.23:013][502]MapCheck: Warning: StaticMeshActor_UAID_D8BBC1BA1FBDF4B701_1313688363 StaticMeshActor_UAID_D8BBC1BA1FBDF4B701_1313688363 is in the same location as StaticMeshActor_UAID_D8BBC1BA1FBDF4B701_1295081362 
+[2023.11.07-14.36.23:014][502]MapCheck: Warning: StaticMeshActor_UAID_D8BBC1BA1FBDF6B701_1987557744 StaticMeshActor_UAID_D8BBC1BA1FBDF6B701_1987557744 is in the same location as StaticMeshActor_UAID_D8BBC1BA1FBDF6B701_1987558745 
+[2023.11.07-14.36.23:014][502]MapCheck: Map check complete: 0 Error(s), 8 Warning(s), took 10,426ms to complete.
+[2023.11.07-14.36.23:014][502]LogEditorBuildUtils: Build time 0:15
+[2023.11.07-14.36.23:075][502]AssetCheck: New page: Asset Save: multiple assets
+[2023.11.07-14.36.23:075][502]LogContentValidation: Display: Validating /Script/Engine.World /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap
+[2023.11.07-14.36.23:075][502]LogContentValidation: Display: Validating /Script/Engine.PostProcessVolume /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PostProcessVolume_0
+[2023.11.07-14.36.43:792][168]LogSlate: Window 'Message Log' being destroyed
+[2023.11.07-14.36.43:807][168]LogSlate: Window 'Message Log' being destroyed
+[2023.11.07-14.36.54:120][  0]LogEditorBuildUtils: Warning: Cannot connect to revision control; automated build aborted.
+[2023.11.07-14.36.54:121][  0]BuildAndSubmitErrors: New page: Build and Submit
+[2023.11.07-14.36.54:121][  0]BuildAndSubmitErrors: Error: Cannot connect to revision control; automated build aborted.
+[2023.11.07-14.36.54:153][  0]LogSlate: Window 'Build and Submit' being destroyed
+[2023.11.07-14.37.01:988][646]LogSlate: Window 'Message Log' being destroyed
+[2023.11.07-14.37.02:003][646]LogSlate: Window 'Message Log' being destroyed
